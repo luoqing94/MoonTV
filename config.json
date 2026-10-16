@@ -1,29 +1,66 @@
 {
   "cache_time": 7200,
   "api_site": {
+    "maoyan": {
+      "name": "猫眼资源(含4K)",
+      "api": "https://api.maoyanapi.top/api.php/provide/vod"
+    },
+    "mdzy": {
+      "name": "魔都资源(含4K)",
+      "api": "https://www.mdzyapi.com/api.php/provide/vod"
+    },
+    "zuida": {
+      "name": "最大资源",
+      "api": "https://api.zuidapi.com/api.php/provide/vod"
+    },
     "guangsu": {
       "name": "光速资源",
       "api": "https://api.guangsuapi.com/api.php/provide/vod/from/gsm3u8"
+    },
+    "zy360": {
+      "name": "360资源",
+      "api": "https://360zy.com/api.php/provide/vod"
     },
     "ikun": {
       "name": "ikun资源",
       "api": "https://ikunzyapi.com/api.php/provide/vod"
     },
-    "wujin": {
-      "name": "无尽资源",
-      "api": "https://api.wujinapi.com/api.php/provide/vod"
+    "uku": {
+      "name": "U酷资源",
+      "api": "https://api.ukuapi.com/api.php/provide/vod"
+    },
+    "ffzy": {
+      "name": "非凡资源",
+      "api": "https://cj.ffzyapi.com/api.php/provide/vod"
+    },
+    "dyttzy": {
+      "name": "电影天堂",
+      "api": "https://caiji.dyttzyapi.com/api.php/provide/vod",
+      "detail": "https://caiji.dyttzyapi.com"
+    },
+    "aidan": {
+      "name": "艾旦资源",
+      "api": "https://lovedan.net/api.php/provide/vod"
+    },
+    "jinying": {
+      "name": "金鹰资源",
+      "api": "https://jyzyapi.com/provide/vod"
+    },
+    "huya": {
+      "name": "虎牙资源",
+      "api": "https://www.huyaapi.com/api.php/provide/vod"
     },
     "hongniu": {
       "name": "红牛资源",
       "api": "https://www.hongniuzy2.com/api.php/provide/vod"
     },
+    "wujin": {
+      "name": "无尽资源",
+      "api": "https://api.wujinapi.com/api.php/provide/vod"
+    },
     "lz": {
       "name": "量子资源",
       "api": "https://cj.lziapi.com/api.php/provide/vod"
-    },
-    "ffzy": {
-      "name": "非凡资源",
-      "api": "https://api.ffzyapi.com/api.php/provide/vod"
     },
     "bfzy": {
       "name": "暴风资源",
@@ -37,10 +74,6 @@
       "name": "豪华资源",
       "api": "https://hhzyapi.com/api.php/provide/vod"
     },
-    "mdzy": {
-      "name": "魔都资源",
-      "api": "https://www.mdzyapi.com/api.php/provide/vod"
-    },
     "niuniu": {
       "name": "牛牛资源",
       "api": "https://api.niuniuzy.me/api.php/provide/vod"
@@ -48,11 +81,6 @@
     "lzcaiji": {
       "name": "量子采集",
       "api": "https://cj.lzcaiji.com/api.php/provide/vod"
-    },
-    "dyttzy": {
-      "name": "电影天堂",
-      "api": "https://caiji.dyttzyapi.com/api.php/provide/vod",
-      "detail": "https://caiji.dyttzyapi.com"
     },
     "ruyi": {
       "name": "如意资源",
